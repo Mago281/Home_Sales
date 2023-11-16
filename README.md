@@ -71,5 +71,5 @@ The runtime for the above analysis is 1.1581673622131348 seconds while the runti
 13.	Verified that the home_sales temporary table is uncached using PySpark.
 
 
-14.	Download your Home_Sales.ipynb file has been uploaded into this GitHub repository.
+14.	Uploaded my *Home_Sales.ipynb* file into this GitHub repository.
 
