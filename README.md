@@ -53,7 +53,7 @@ ________________________________________
     ![image](https://github.com/Mago281/Home_Sales/assets/131424690/68b8de68-d383-4149-872e-16ab62e785ad)
 
   
-The runtime for the cached data above was quicker at 0.6312069892883301 seconds while the uncached runtime was 0.8923213481903076 seconds.
+    The runtime for the cached data above was quicker at 0.6312069892883301 seconds while the uncached runtime was 0.8923213481903076 seconds.
 
 
 9.	Partitioned by the "date_built" field on the formatted parquet home sales data.
@@ -67,7 +67,7 @@ The runtime for the cached data above was quicker at 0.6312069892883301 seconds 
     ![image](https://github.com/Mago281/Home_Sales/assets/131424690/acb61a39-ef80-42b0-827e-e0ca7099a0f5)
 
 
-The runtime for the above analysis is 1.1581673622131348 seconds while the runtime for the cached version was faster at 0.6312069892883301 seconds.
+    The runtime for the above analysis is 1.1581673622131348 seconds while the runtime for the cached version was faster at 0.6312069892883301 seconds.
 
 12.	Uncached the home_sales temporary table.
 
