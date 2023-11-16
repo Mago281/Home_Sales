@@ -1,10 +1,14 @@
 # Home_Sales
 
 ## Background
-The Home_Sales_starter_code_colab.ipynb file was provided for this challenge.  I have coded in 
-Working with Big Data in this challenge, SparkSQL was used to determine key metrics about home sales data. 
+The Home_Sales_starter_code_colab.ipynb file was provided for this challenge.  
+
+For this challenge, I have coded in CoLab; SparkSQL was used to determine key metrics about home sales data. 
+
 Then, I used Spark to create temporary views, to partition the data and to cache + uncache a temporary table. 
+
 The final step was to verify that the table had indeed been uncached.
+
 ________________________________________
 ## Instructions
 
