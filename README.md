@@ -33,11 +33,10 @@ ________________________________________
      ![image](https://github.com/Mago281/Home_Sales/assets/131424690/050989c8-f42d-4bb6-8423-ce85f8a14b03)
 
 
-  •	What is the "view" rating for homes costing more than or equal to $350,000?  The answer was rounded off to two decimal places and the runtime was determined.
- 
-     ![image](https://github.com/Mago281/Home_Sales/assets/131424690/6cd9f95d-5600-4329-8841-84981cf529e6)
+  •	What is the "view" rating for homes costing more than or equal to $350,000?  The answer was rounded off to two decimal places and the runtime was determined.  
+      ![image](https://github.com/Mago281/Home_Sales/assets/131424690/f8d76388-c05d-4b75-8c45-27d0c80eddd5)
 
-
+    
 
 6.	Cached the temporary table home_sales_data.
 
