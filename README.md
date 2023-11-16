@@ -11,7 +11,7 @@ Then, I used Spark to create temporary views, to partition the data and to cache
 The final step was to verify that the table had indeed been uncached.
 
 ________________________________________
-## Instructions
+## Steps Undertaken
 
 1.	Renamed the *Home_Sales_starter_code_colab.ipynb* file which was provided as *Home_Sales.ipynb*.
 
